@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master of Science in Mechanical Engineering at the [McKelvey School of Engineering](https://engineering.washu.edu/index.html), [Washington University in St. Louis](https://washu.edu/). My research interests lie at the intersection of machine design, automation, and robotics, with a particular focus on the development of advanced mechanical systems, and navigation algorithms for intelligent robotic platforms.
-You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV)
+I am currently pursuing a Master of Science in Mechanical Engineering at the [McKelvey School of Engineering](https://engineering.washu.edu/index.html), [Washington University in St. Louis](https://washu.edu/). My research interests lie at the intersection of machine design, automation, and robotics, with a particular focus on the development of advanced mechanical systems, and navigation algorithms for intelligent robotic platforms.  
+You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV)  
 **Email**: bingyi.w@wustl.edu  
 **GitHub**: [bingyiw-lab](https://github.com/bingyiw-lab)  
 **WeChat**: by_byddd  
