@@ -15,41 +15,173 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 **WeChat**: by_byddd  
 **Tel**: +86 15048808946
 
-A data-driven personal website
+📖 Educations
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- *Sept 2020 - Jun 2023*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
+  - B.E. in Mechanical Design, Manufacturing and Automation, GPA: 3.30/4.33
+  - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission
+  - Major:  B.S. in Mechanical Design Manufacturing, and Automation  
+  
+- *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
+  - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.50/4.00
+  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique
+  - Major: B.S. in Robotics and Mechatronic Systems Engineering  
+    
+- *Aug 2024 – Present*. [Washington University in St. Louis](https://washu.edu/), Saint louis, MO, US
+  - M.S. in Mechanical Engineering , GPA: 4.00/4.00
+  - Courses: Vibrations, Modern Robot, FEA , Robotics Design , Machine Learning
+  - Major: M.S. in Mechincal engineering
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+🚀 Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">Bipedal Robot</div>
+    <img src='images/real_robot.gif' alt="sym" width="100%">
+    <img src="images/uneven_RL2.gif" alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Robotics Studio Project and Reinforcement Learning Implementation**
 
-**Markdown generator**
+- Designed a bipedal robot, including *3D* printing of components. Successfully integrated six *LX-16A servo motors*, a *DC-to-DC converter*, a motor controller, and a *Raspberry Pi 4* to complete the robot's drive system.
+- Developed and implemented a walking program, achieving a robot walking speed of 4.2 cm/s.
+- Created the robot's *URDF (Unified Robot Description Format*) file to accurately model its physical properties. Simulated the robot in *NVIDIA Isaac Sim* for verification and testing.
+- Trained the robot to walk on flat terrain using the *Proximal Policy Optimization (PPO*) algorithm in *Isaac Lab*. Input data included *IMU (Inertial Measurement Unit)* and six joint position sensors. The robot achieved a walking speed of 20.1 cm/s on flat surfaces.
+-  Integrated a ground-height sensor (*RayCaster*) for the robot and extended training to uneven terrain with varying heights ranging from 0 cm to 4 cm. Enabled the robot to maintain a stable walking speed of 19.9 cm/s, demonstrating robust adaptability to environmental variations.
+- *Future Work:* Apply the reinforcement learning training results to the physical robot to validate and refine the performance in real-world scenarios.
+- [Walking on Uneven Terrain](https://youtu.be/f4579Unitg8)
+</div>
+</div>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">Senior Design</div>
+    <img src="images/SeniorProject.gif" alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
+
+- Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
+- Modeled the *ReactorX-200* robotic arm and developed an app in *Matlab* to simulate both forward and inverse kinematics of the robotic arm. Finally, applied the algorithm to the real robotic arm for verification and used the program to control the arm.
+- Trained dataset using *YOLOv8* and combined it with *Kinect V2* point cloud data to achieve target object localization.
+- Performed camera calibration and hand-eye calibration between the robotic arm and the camera, significantly improving the grasping accuracy.
+- Implemented navigation functionality using the *A\** algorithm for global path planning and the *DWA* algorithm for local path planning.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">RoboCup</div>
+    <img src='images/DoorOpening.gif' alt="sym" width="100%">
+    <img src="images/ObjectGrasping1.gif" alt="sym2" width="100%">
+    <img src="images/ObjectGrasping2.gif" alt="sym2" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**RoboCup China Open 2022 ROBOCUP@HOME**
+
+- Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
+
+- Designed and executed a algorithm combining object recognition with object grasping and delivery.
+
+-	Orchestrated a four-step approach, including precise identification of target objects, accurate localization using depth cameras, pose analysis for gripping, and precise control of the robotic arm for successful object grasping and delivery.
+
+-	Utilized *MoveIt* with *Open Motion Planning Library (OMPL)* for motion and path planning, *RRT\** algorithm for efficient trajectory generation, and *TRAC-IK* for accurate inverse kinematics.
+
+-	Integrated *YOLOv5* and *Kinect DK* to achieve target object recognition and 3D localization.
+
+- Used the *Grasp Pose Detection (GPD)* package to detect 6-DOF grasp poses for a 2-finger robot hand in 3D point clouds, enabling the grasping of objects in various orientations.
+
+-	Successfully developed and implemented a unique robotic door-opening solution to complete the challenging task – the only team that completed this task.
+
+-	Innovatively combined precise base positioning and mechanical arm path planning, significantly reducing computation time, streamlining the process, and efficiently completing door-opening tasks while ensuring obstacle avoidance.
+
+- [Door-opening Solution](https://youtu.be/5L3_ih3M9L4)
+
+- [Object Grasping ](https://youtu.be/INuuNCfpnjQ)
+
+- [Receptionist](https://youtu.be/N8DXzzaAM7E)
+
+- [What is That](https://youtu.be/Q4CnmgxCESk)
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <img src='images/CarPole.gif' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**RL Projects** 
+- Complete the [CartPole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) task in gym using the Actor-Critic Policy Gradient algorithm and the Deep Q-Network (DQN) algorithm, respectively.
+- Successfully applied the Q-Learning algorithm to solve the [Frozen Lake](https://gymnasium.farama.org/environments/toy_text/frozen_lake/) environment.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <img src='images/AssemblyDrawing.jpg' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**Other Projects** 
+- [TM4C Microcontroller-based ROS Car](https://youtu.be/Vz4X8Z0HHWA)
+
+- [Design of the Hydraulic System for a Single Leg Structure of a Multi-Legged Robot](https://github.com/TNA001-AI/Hydraulic-System-for-a-Single-Leg-Structure.git)
+
+- [Genetic Algorithm Experiment and BP Neural Network Experiment](https://github.com/TNA001-AI/Genetic-Algorithm-Experiment-and-BP-Neural-Network-Experiment.git)
+
+- [Two-stage gearbox mechanical design](https://github.com/TNA001-AI/Two-stage-gearbox-mechanical-design)
+
+</div>
+</div>
+
+💻 Internships
+======
+Feb 2023 - May 2023, Tsinghua University Intelligent Connected Vehicle Research Group, Beijing, China.  
+
+
+🏆 Honors and Awards
+======
+Jan 2023, Individual Scholarship in School Year 2021-2022 Term 2 in BUCT  
+Nov 2022, National First Prize in 2022 RoboCup China Open ROBOCUP@HOME  
+Nov 2022, Second Prize in 2021 China Robot Skills Competition, Beijing Division A Group  
+Nov 2022, Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students  
+Nov 2022, Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students  
+May 2022, Third Scholarship in School Year 2021-2022 Term 1 in BUCT  
+Dec 2021, National Second Prize in 2021 China Robot Skills Competition  
+Dec 2021, Third Scholarship in School Year 2020-2021 Term 2 in BUCT  
+Jul 2021, Third Prize in 2021 BUCT Intelligent Service Robot Competition  
+May 2021, Third Scholarship in School Year 2020-2021 Term 1 in BUCT  
+Apr 2021, Outstanding Student Leader in BUCT CEE  
+
+🧠 Skills
+======
+Programming Language: Proficient in using C++, Python, and Matlab in robotics.  
+ROS: Proficient in working with ROS.  
+Robotics and Robot Control: Proficiency in using robotics control frameworks like MoveIt for motion planning. Skill in kinematics solving.  
+Navigation and Mapping: Advanced skills in 2D indoor mapping using tools like Google Cartographer. Implementation of path planning algorithms and tools, including DWA, RRT, A*, Move_Base, etc.  
+Cloud-Based Vehicle Control: Hands-on experience in developing cloud-based control systems for vehicles. Algorithm development for optimizing vehicle speed and power management.  
+Microcontroller Proficiency: Proficient in the use of TM4C microcontrollers and Arduino.  
+Mechanical Design: Proficient in manual engineering drawing and using SolidWorks for mechanical design, having completed multiple mechanical design projects.  
+Mathematical Modeling: Deep understanding of mathematical modeling methods and tools. Application of mathematical modeling principles in real-world problem-solving.  
+Soft skills: Quick learning ability, self-starting, and problem-solving as demonstrated in numerous competitions and internships.  
