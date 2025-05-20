@@ -9,6 +9,10 @@ redirect_from:
 
 I am currently pursuing a Master of Science in Mechanical Engineering at the [McKelvey School of Engineering](https://engineering.washu.edu/index.html), [Washington University in St. Louis](https://washu.edu/). My research interests lie at the intersection of machine design, automation, and robotics, with a particular focus on the development of advanced mechanical systems, and navigation algorithms for intelligent robotic platforms.
 
+You can find my CV here:[Bingyi's Curriculum Vitae](../assets/CV)
+[Email] (mailto:bingyi.w@wustl.edu)/[Github] (https://github.com/bingyiw-lab)/Wechat:by_byddd/Tel:+86 15048808946 
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
