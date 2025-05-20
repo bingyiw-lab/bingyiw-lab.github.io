@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm always open to learning and improving."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Washington University in St.Louis"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bingyi.w@wustl.edu" 
 
   # Academic websites
   academia         : # URL
