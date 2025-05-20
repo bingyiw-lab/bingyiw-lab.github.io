@@ -157,31 +157,27 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 💻 Internships
 ======
-Feb 2023 - May 2023, Tsinghua University Intelligent Connected Vehicle Research Group, Beijing, China.  
+Beijing Tinavi Medical Technologies Co., Ltd., Beijing	05/2023—08/2023  
+Participated in a project called PKP (Percutaneous Kyphoplasty) from Party A of the company, cooperated with colleagues to design a system using the computer to control the robotic arm to push a syringe to inject bone cement and contrast media, and my job was to design the injector model and assemble its prototype.
+Based on the previous patented syringe model, designed quick pressure relief device to exhaust the gas in the syringe, and devised quick disassembly device to ensure that the doctor could remove the injector immediately and finish the injection manually once the machine failed.
+Completed the syringe model design and simulation in CREO 3.0 and AutoCAD software, derived the most suitable parameters through gradual adjustment and simulation, used a laser 3D printer to generate the 3D model, and eventually purchased auxiliary accessories from the supplier to accomplish the injector assembling. 
+The syringe was the first one on the market that could be equipped with quick disassembly and pressure relief devices simultaneously to inject bone cement and contrast media so it was granted a patent. 
 
 
 🏆 Honors and Awards
 ======
 Jan 2023, Individual Scholarship in School Year 2021-2022 Term 2 in BUCT  
-Nov 2022, National First Prize in 2022 RoboCup China Open ROBOCUP@HOME  
-Nov 2022, Second Prize in 2021 China Robot Skills Competition, Beijing Division A Group  
-Nov 2022, Qualified in the program Intelligent Four-legged Voice Interactive Robot in 2022 Innovation and Entrepreneurship Training Program for college students  
-Nov 2022, Qualified in the program Humanoid Soft Robot in 2022 Innovation and Entrepreneurship Training Program for college students  
 May 2022, Third Scholarship in School Year 2021-2022 Term 1 in BUCT  
-Dec 2021, National Second Prize in 2021 China Robot Skills Competition  
 Dec 2021, Third Scholarship in School Year 2020-2021 Term 2 in BUCT  
 Jul 2021, Third Prize in 2021 BUCT Intelligent Service Robot Competition  
-May 2021, Third Scholarship in School Year 2020-2021 Term 1 in BUCT  
-Apr 2021, Outstanding Student Leader in BUCT CEE  
+Nov 2022, APMCM Asia and Pacific Mathematical Contest in Modeling			           
 
 🧠 Skills
 ======
-Programming Language: Proficient in using C++, Python, and Matlab in robotics.  
+Programming Language: C++, Python, and Matlab in robotics.  
 ROS: Proficient in working with ROS.  
 Robotics and Robot Control: Proficiency in using robotics control frameworks like MoveIt for motion planning. Skill in kinematics solving.  
 Navigation and Mapping: Advanced skills in 2D indoor mapping using tools like Google Cartographer. Implementation of path planning algorithms and tools, including DWA, RRT, A*, Move_Base, etc.  
-Cloud-Based Vehicle Control: Hands-on experience in developing cloud-based control systems for vehicles. Algorithm development for optimizing vehicle speed and power management.  
-Microcontroller Proficiency: Proficient in the use of TM4C microcontrollers and Arduino.  
+Cloud-Based Vehicle Control: Algorithm development for optimizing vehicle speed and power management.  
 Mechanical Design: Proficient in manual engineering drawing and using SolidWorks for mechanical design, having completed multiple mechanical design projects.  
-Mathematical Modeling: Deep understanding of mathematical modeling methods and tools. Application of mathematical modeling principles in real-world problem-solving.  
 Soft skills: Quick learning ability, self-starting, and problem-solving as demonstrated in numerous competitions and internships.  
