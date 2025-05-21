@@ -34,7 +34,6 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 🚀 Projects
 ======
-**Design of Hydraulic System of Single-leg Structure of Multi-legged Robot**
 <style>
   .paper-box {
     display: flex;
@@ -59,15 +58,17 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
     width: 100%; 
   }
 </style>
-  <div class='paper-box'>
+    <div class='paper-box'>
   <div class='paper-box-image'>
+  <div>
+    <div class="badge">Senior Design</div>
     <img src='images/1.png' alt="sym">
     <img src="images/3.png" alt="sym">
     <img src='images/2.png' alt="sym">
   </div>
-  <div class='paper-box-text' markdown="1">
   </div>
-</div>
+<div class='paper-box-text' markdown="1">
+**Design of Hydraulic System of Single-leg Structure of Multi-legged Robot**
 - Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
 - According to the maximum load and speed of different parts’ cylinders, calculated appropriate cylinder diameter, maximum tolerable pressure, and flow rate.
 - Carried out a comprehensive literature review on the selection of board materials in terms of factors such as liquid pressure, flow speed, and price, and found out which material best suits the cylinder parameters above.
