@@ -60,7 +60,6 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
 
-
 [*Robotics Senior Design at the University of Detroit Mercy*](https://youtu.be/Mp3_kLw8cQc)
 ------
 - Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
@@ -71,7 +70,6 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 </div>
 </div>
-
 
 
 <div class='paper-box'>
@@ -85,44 +83,14 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 [*RoboCup China Open 2022 ROBOCUP*](https://youtu.be/Mp3_kLw8cQc)
 ------
 - Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
-
 - Designed and executed a algorithm combining object recognition with object grasping and delivery.
-
 -	Orchestrated a four-step approach, including precise identification of target objects, accurate localization using depth cameras, pose analysis for gripping, and precise control of the robotic arm for successful object grasping and delivery.
-
 -	Utilized *MoveIt* with *Open Motion Planning Library (OMPL)* for motion and path planning, *RRT\** algorithm for efficient trajectory generation, and *TRAC-IK* for accurate inverse kinematics.
-
 -	Integrated *YOLOv5* and *Kinect DK* to achieve target object recognition and 3D localization.
-
 - Used the *Grasp Pose Detection (GPD)* package to detect 6-DOF grasp poses for a 2-finger robot hand in 3D point clouds, enabling the grasping of objects in various orientations.
-
 -	Successfully developed and implemented a unique robotic door-opening solution to complete the challenging task – the only team that completed this task.
-
 -	Innovatively combined precise base positioning and mechanical arm path planning, significantly reducing computation time, streamlining the process, and efficiently completing door-opening tasks while ensuring obstacle avoidance.
 
-- [Door-opening Solution](https://youtu.be/5L3_ih3M9L4)
-
-- [Object Grasping ](https://youtu.be/INuuNCfpnjQ)
-
-- [Receptionist](https://youtu.be/N8DXzzaAM7E)
-
-- [What is That](https://youtu.be/Q4CnmgxCESk)
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
-    <img src='images/CarPole.gif' alt="sym" width="100%">
-  </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-
-**RL Projects** 
-------
-- Complete the [CartPole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) task in gym using the Actor-Critic Policy Gradient algorithm and the Deep Q-Network (DQN) algorithm, respectively.
-- Successfully applied the Q-Learning algorithm to solve the [Frozen Lake](https://gymnasium.farama.org/environments/toy_text/frozen_lake/) environment.
 </div>
 </div>
 
@@ -136,13 +104,12 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 **Other Projects** 
 ------
-- [TM4C Microcontroller-based ROS Car](https://youtu.be/Vz4X8Z0HHWA)
+- [TM4C Microcontroller-based ROS Arm]()
 
 - [Design of the Hydraulic System for a Single Leg Structure of a Multi-Legged Robot](https://github.com/TNA001-AI/Hydraulic-System-for-a-Single-Leg-Structure.git)
 
 - [Genetic Algorithm Experiment and BP Neural Network Experiment](https://github.com/TNA001-AI/Genetic-Algorithm-Experiment-and-BP-Neural-Network-Experiment.git)
 
-- [Two-stage gearbox mechanical design](https://github.com/TNA001-AI/Two-stage-gearbox-mechanical-design)
 
 </div>
 </div>
@@ -150,10 +117,10 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 💻 Internships
 ======
 Beijing Tinavi Medical Technologies Co., Ltd., Beijing	05/2023—08/2023  
-Participated in a project called PKP (Percutaneous Kyphoplasty) from Party A of the company, cooperated with colleagues to design a system using the computer to control the robotic arm to push a syringe to inject bone cement and contrast media, and my job was to design the injector model and assemble its prototype.
-Based on the previous patented syringe model, designed quick pressure relief device to exhaust the gas in the syringe, and devised quick disassembly device to ensure that the doctor could remove the injector immediately and finish the injection manually once the machine failed.
+- Participated in a project called PKP (Percutaneous Kyphoplasty) from Party A of the company, cooperated with colleagues to design a system using the computer to control the robotic arm to push a syringe to inject bone cement and contrast media, and my job was to design the injector model and assemble its prototype.
+- Based on the previous patented syringe model, designed quick pressure relief device to exhaust the gas in the syringe, and devised quick disassembly device to ensure that the doctor could remove the injector immediately and finish the injection manually once the machine failed.
 Completed the syringe model design and simulation in CREO 3.0 and AutoCAD software, derived the most suitable parameters through gradual adjustment and simulation, used a laser 3D printer to generate the 3D model, and eventually purchased auxiliary accessories from the supplier to accomplish the injector assembling. 
-The syringe was the first one on the market that could be equipped with quick disassembly and pressure relief devices simultaneously to inject bone cement and contrast media so it was granted a patent. 
+- The syringe was the first one on the market that could be equipped with quick disassembly and pressure relief devices simultaneously to inject bone cement and contrast media so it was granted a patent.
 
 
 🏆 Honors and Awards
@@ -162,7 +129,8 @@ Jan 2023, Individual Scholarship in School Year 2021-2022 Term 2 in BUCT
 May 2022, Third Scholarship in School Year 2021-2022 Term 1 in BUCT  
 Dec 2021, Third Scholarship in School Year 2020-2021 Term 2 in BUCT  
 Jul 2021, Third Prize in 2021 BUCT Intelligent Service Robot Competition  
-Nov 2022, APMCM Asia and Pacific Mathematical Contest in Modeling			           
+Nov 2022, APMCM Asia and Pacific Mathematical Contest in Modeling	
+
 
 🧠 Skills
 ======
@@ -172,4 +140,4 @@ Robotics and Robot Control: Proficiency in using robotics control frameworks lik
 Navigation and Mapping: Advanced skills in 2D indoor mapping using tools like Google Cartographer. Implementation of path planning algorithms and tools, including DWA, RRT, A*, Move_Base, etc.  
 Cloud-Based Vehicle Control: Algorithm development for optimizing vehicle speed and power management.  
 Mechanical Design: Proficient in manual engineering drawing and using SolidWorks for mechanical design, having completed multiple mechanical design projects.  
-Soft skills: Quick learning ability, self-starting, and problem-solving as demonstrated in numerous competitions and internships.  
+Soft skills: Englsih, Quick learning ability, self-starting, and problem-solving as demonstrated in numerous competitions and internships.  
