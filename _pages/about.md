@@ -51,7 +51,8 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 - Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
 - According to the maximum load and speed of different parts’ cylinders, calculated appropriate cylinder diameter, maximum tolerable pressure, and flow rate.
 - Carried out a comprehensive literature review on the selection of board materials in terms of factors such as liquid pressure, flow speed, and price, and found out which material best suits the cylinder parameters above.
-- Used SolidWorks to simulate the pipeline structure with 5 valve blocks mounted on the board, drew the valve and assembly diagrams, and eventually ordered the prototypes of suitable valves online to complete assembly. 
+- Used SolidWorks to simulate the pipeline structure with 5 valve blocks mounted on the board, drew the valve and assembly diagrams, and eventually ordered the prototypes of suitable valves online to complete assembly.
+
 </div>
 </div>
 
