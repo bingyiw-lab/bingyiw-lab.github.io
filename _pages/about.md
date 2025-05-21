@@ -37,30 +37,12 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-   
-  </div>
-  </div>
-<div class='paper-box-text' markdown="1">
- 
-[*Design of Hydraulic System of Single-leg Structure of Multi-legged Robot*](https://youtu.be/Mp3_kLw8cQc)
------- 
-- Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
-- According to the maximum load and speed of different parts’ cylinders, calculated appropriate cylinder diameter, maximum tolerable pressure, and flow rate.
-- Carried out a comprehensive literature review on the selection of board materials in terms of factors such as liquid pressure, flow speed, and price, and found out which material best suits the cylinder parameters above.
-- Used SolidWorks to simulate the pipeline structure with 5 valve blocks mounted on the board, drew the valve and assembly diagrams, and eventually ordered the prototypes of suitable valves online to complete assembly.
-</div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
   
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-[*Robotics Senior Design at the University of Detroit Mercy*](https://youtu.be/Mp3_kLw8cQc)
+[*Robotic car navigation at the University of Detroit Mercy*](https://youtu.be/Mp3_kLw8cQc)
 ------
 - Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
 - Modeled the *ReactorX-200* robotic arm and developed an app in *Matlab* to simulate both forward and inverse kinematics of the robotic arm. Finally, applied the algorithm to the real robotic arm for verification and used the program to control the arm.
@@ -80,7 +62,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
 
-[*RoboCup China Open 2022 ROBOCUP*](https://youtu.be/Mp3_kLw8cQc)
+[*Simulation of Robotic Arm in MATLAB*](https://youtu.be/LR6SZfV7A18)
 ------
 - Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
 - Designed and executed a algorithm combining object recognition with object grasping and delivery.
@@ -102,7 +84,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
 
-[*RoboCup China Open 2022 ROBOCUP*](https://youtu.be/Mp3_kLw8cQc)
+[*TM4C Microcontroller-based ROS Arm*](https://youtu.be/tLppP-j99Lo)
 ------
 - Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
 - Designed and executed a algorithm combining object recognition with object grasping and delivery.
@@ -113,6 +95,22 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 -	Successfully developed and implemented a unique robotic door-opening solution to complete the challenging task – the only team that completed this task.
 -	Innovatively combined precise base positioning and mechanical arm path planning, significantly reducing computation time, streamlining the process, and efficiently completing door-opening tasks while ensuring obstacle avoidance.
 
+</div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+   
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+ 
+[*Design of Hydraulic System of Single-leg Structure of Multi-legged Robot*](https://youtu.be/Mp3_kLw8cQc)
+------ 
+- Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
+- According to the maximum load and speed of different parts’ cylinders, calculated appropriate cylinder diameter, maximum tolerable pressure, and flow rate.
+- Carried out a comprehensive literature review on the selection of board materials in terms of factors such as liquid pressure, flow speed, and price, and found out which material best suits the cylinder parameters above.
+- Used SolidWorks to simulate the pipeline structure with 5 valve blocks mounted on the board, drew the valve and assembly diagrams, and eventually ordered the prototypes of suitable valves online to complete assembly.
 </div>
 </div>
 
