@@ -43,8 +43,8 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   .paper-box-image {
     display: flex;
     flex-direction: column;
-    gap: 10px; /* 图片之间的间隔 */
-    width: 40%; /* 或者你可以设定具体像素，比如 300px */
+    gap: 10px; 
+    width: 40%; 
   }
   .paper-box-text {
     margin-left: 20px;
@@ -55,7 +55,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
     margin-bottom: 10px;
   }
   img {
-    width: 100%; /* 控制在列中自适应 */
+    width: 100%; 
   }
 </style>
   
