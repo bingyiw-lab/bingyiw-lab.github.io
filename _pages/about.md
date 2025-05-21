@@ -39,8 +39,8 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   <div>
     <div class="badge">Design of Hydraulic System</div>
     <img src='images/1.png' alt="sym" width="100%">
-    <img src="images/2.png" alt="sym" width="100%">
-    <img src='images/3.png' alt="sym" width="100%">
+    <img src="images/3.png" alt="sym" width="100%">
+    <img src='images/2.png' alt="sym" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
