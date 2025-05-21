@@ -34,6 +34,35 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 🚀 Projects
 ======
+<style>
+  .paper-box {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .paper-box-image {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    width: 40%; 
+  }
+
+  .paper-box-text {
+    margin-left: 20px;
+    flex: 1;
+  }
+
+  .badge {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  img {
+    width: 100%;
+  }
+</style>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
