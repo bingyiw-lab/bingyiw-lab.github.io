@@ -34,10 +34,30 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 🚀 Projects
 ======
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
-<div class='paper-box-text' markdown="1">
+<style>
+  .paper-box {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .paper-box-image {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* 图片之间的间隔 */
+    width: 40%; /* 或者你可以设定具体像素，比如 300px */
+  }
+  .paper-box-text {
+    margin-left: 20px;
+    flex: 1;
+  }
+  .badge {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  img {
+    width: 100%; /* 控制在列中自适应 */
+  }
+</style>
   
 **Design of Hydraulic System of Single-leg Structure of Multi-legged Robot**
   <img src='images/1.png' alt="sym" width="50%">
