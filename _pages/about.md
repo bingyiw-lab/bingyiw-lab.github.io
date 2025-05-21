@@ -43,6 +43,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box-text' markdown="1">
  
 [**Design of Hydraulic System of Single-leg Structure of Multi-legged Robot*](https://youtu.be/Mp3_kLw8cQc)
+------
   
 - Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
 - According to the maximum load and speed of different parts’ cylinders, calculated appropriate cylinder diameter, maximum tolerable pressure, and flow rate.
@@ -62,7 +63,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 
 [**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
-
+------
 - Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
 - Modeled the *ReactorX-200* robotic arm and developed an app in *Matlab* to simulate both forward and inverse kinematics of the robotic arm. Finally, applied the algorithm to the real robotic arm for verification and used the program to control the arm.
 - Trained dataset using *YOLOv8* and combined it with *Kinect V2* point cloud data to achieve target object localization.
@@ -83,7 +84,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box-text' markdown="1">
 
 **RoboCup China Open 2022 ROBOCUP@HOME**
-
+------
 - Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
 
 - Designed and executed a algorithm combining object recognition with object grasping and delivery.
@@ -120,6 +121,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box-text' markdown="1">
 
 **RL Projects** 
+------
 - Complete the [CartPole](https://gymnasium.farama.org/environments/classic_control/cart_pole/) task in gym using the Actor-Critic Policy Gradient algorithm and the Deep Q-Network (DQN) algorithm, respectively.
 - Successfully applied the Q-Learning algorithm to solve the [Frozen Lake](https://gymnasium.farama.org/environments/toy_text/frozen_lake/) environment.
 </div>
@@ -134,6 +136,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box-text' markdown="1">
 
 **Other Projects** 
+------
 - [TM4C Microcontroller-based ROS Car](https://youtu.be/Vz4X8Z0HHWA)
 
 - [Design of the Hydraulic System for a Single Leg Structure of a Multi-Legged Robot](https://github.com/TNA001-AI/Hydraulic-System-for-a-Single-Leg-Structure.git)
