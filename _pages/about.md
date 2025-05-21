@@ -37,23 +37,22 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">Bipedal Robot</div>
-    <img src='images/real_robot.gif' alt="sym" width="100%">
-    <img src="images/uneven_RL2.gif" alt="sym" width="100%">
+    <div class="badge">Design of Hydraulic System</div>
+    <img src='images/1.png' alt="sym" width="100%">
+    <img src="images/2.png" alt="sym" width="100%">
+    <img src='images/3.png' alt="sym" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
 
-**Robotics Studio Project and Reinforcement Learning Implementation**
+**Design of Hydraulic System of Single-leg Structure of Multi-legged Robot**
 
-- Designed a bipedal robot, including *3D* printing of components. Successfully integrated six *LX-16A servo motors*, a *DC-to-DC converter*, a motor controller, and a *Raspberry Pi 4* to complete the robot's drive system.
-- Developed and implemented a walking program, achieving a robot walking speed of 4.2 cm/s.
-- Created the robot's *URDF (Unified Robot Description Format*) file to accurately model its physical properties. Simulated the robot in *NVIDIA Isaac Sim* for verification and testing.
-- Trained the robot to walk on flat terrain using the *Proximal Policy Optimization (PPO*) algorithm in *Isaac Lab*. Input data included *IMU (Inertial Measurement Unit)* and six joint position sensors. The robot achieved a walking speed of 20.1 cm/s on flat surfaces.
--  Integrated a ground-height sensor (*RayCaster*) for the robot and extended training to uneven terrain with varying heights ranging from 0 cm to 4 cm. Enabled the robot to maintain a stable walking speed of 19.9 cm/s, demonstrating robust adaptability to environmental variations.
-- *Future Work:* Apply the reinforcement learning training results to the physical robot to validate and refine the performance in real-world scenarios.
-- [Walking on Uneven Terrain](https://youtu.be/f4579Unitg8)
+- Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
+- According to the maximum load and speed of different parts’ cylinders, calculated appropriate cylinder diameter, maximum tolerable pressure, and flow rate.
+- Carried out a comprehensive literature review on the selection of board materials in terms of factors such as liquid pressure, flow speed, and price, and found out which material best suits the cylinder parameters above.
+- Used SolidWorks to simulate the pipeline structure with 5 valve blocks mounted on the board, drew the valve and assembly diagrams, and eventually ordered the prototypes of suitable valves online to complete assembly. 
+- [](https://youtu.be/f4579Unitg8)
 </div>
 </div>
 
