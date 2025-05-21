@@ -34,46 +34,14 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 
 🚀 Projects
 ======
-<style>
-  .paper-box {
-    display: flex;
-    align-items: flex-start;
-  }
-
-  .paper-box-image {
-    display: flex;
-    flex-direction: column;
-    gap: 100px; 
-    width: 40%; 
-  }
-
-  .paper-box-text {
-    margin-left: 20px;
-    flex: 1;
-  }
-
-  .badge {
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  img {
-    width: 100%;
-  }
-</style>
-
-
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">Senior Design</div>
-    <img src="images/1.png" alt="sym" width="100%">
-    <img src="images/3.png" alt="sym" width="100%">
-    <img src="images/2.png" alt="sym" width="100%">
+   
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
-  
+ 
 [**Design of Hydraulic System of Single-leg Structure of Multi-legged Robot*](https://youtu.be/Mp3_kLw8cQc)
   
 - Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
@@ -87,8 +55,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">Senior Design</div>
-    <img src="images/SeniorProject.gif" alt="sym" width="100%">
+  
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -110,10 +77,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">RoboCup</div>
-    <img src='images/DoorOpening.gif' alt="sym" width="100%">
-    <img src="images/ObjectGrasping1.gif" alt="sym2" width="100%">
-    <img src="images/ObjectGrasping2.gif" alt="sym2" width="100%">
+  
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
