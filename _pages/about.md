@@ -43,7 +43,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   .paper-box-image {
     display: flex;
     flex-direction: column;
-    gap: 10px; 
+    gap: 100px; 
     width: 40%; 
   }
 
