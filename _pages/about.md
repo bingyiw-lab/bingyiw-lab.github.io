@@ -97,19 +97,21 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <img src='images/AssemblyDrawing.jpg' alt="sym" width="100%">
+  
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-**Other Projects** 
+[*RoboCup China Open 2022 ROBOCUP*](https://youtu.be/Mp3_kLw8cQc)
 ------
-- [TM4C Microcontroller-based ROS Arm]()
-
-- [Design of the Hydraulic System for a Single Leg Structure of a Multi-Legged Robot](https://github.com/TNA001-AI/Hydraulic-System-for-a-Single-Leg-Structure.git)
-
-- [Genetic Algorithm Experiment and BP Neural Network Experiment](https://github.com/TNA001-AI/Genetic-Algorithm-Experiment-and-BP-Neural-Network-Experiment.git)
-
+- Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
+- Designed and executed a algorithm combining object recognition with object grasping and delivery.
+-	Orchestrated a four-step approach, including precise identification of target objects, accurate localization using depth cameras, pose analysis for gripping, and precise control of the robotic arm for successful object grasping and delivery.
+-	Utilized *MoveIt* with *Open Motion Planning Library (OMPL)* for motion and path planning, *RRT\** algorithm for efficient trajectory generation, and *TRAC-IK* for accurate inverse kinematics.
+-	Integrated *YOLOv5* and *Kinect DK* to achieve target object recognition and 3D localization.
+- Used the *Grasp Pose Detection (GPD)* package to detect 6-DOF grasp poses for a 2-finger robot hand in 3D point clouds, enabling the grasping of objects in various orientations.
+-	Successfully developed and implemented a unique robotic door-opening solution to complete the challenging task – the only team that completed this task.
+-	Innovatively combined precise base positioning and mechanical arm path planning, significantly reducing computation time, streamlining the process, and efficiently completing door-opening tasks while ensuring obstacle avoidance.
 
 </div>
 </div>
