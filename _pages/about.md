@@ -58,7 +58,16 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
     width: 100%; 
   }
 </style>
-  
+  <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">Design of Hydraulic System</div>
+    <img src='images/1.png' alt="sym">
+    <img src="images/3.png" alt="sym">
+    <img src='images/2.png' alt="sym">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  </div>
+</div>
 **Design of Hydraulic System of Single-leg Structure of Multi-legged Robot**
   <img src='images/1.png' alt="sym" width="50%">
   <img src="images/3.png" alt="sym" width="50%">
