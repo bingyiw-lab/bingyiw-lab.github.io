@@ -42,9 +42,8 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
  
-[**Design of Hydraulic System of Single-leg Structure of Multi-legged Robot*](https://youtu.be/Mp3_kLw8cQc)
-------
-  
+[*Design of Hydraulic System of Single-leg Structure of Multi-legged Robot*](https://youtu.be/Mp3_kLw8cQc)
+------ 
 - Designed a hydraulic manifold block in a 200*200 board in SolidWorks, and applied software to simulate the pressure of liquid flow to improve the block property with the consideration of other factors such as price.
 - According to the maximum load and speed of different parts’ cylinders, calculated appropriate cylinder diameter, maximum tolerable pressure, and flow rate.
 - Carried out a comprehensive literature review on the selection of board materials in terms of factors such as liquid pressure, flow speed, and price, and found out which material best suits the cylinder parameters above.
@@ -62,7 +61,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
 <div class='paper-box-text' markdown="1">
 
 
-[**Robotics Senior Design at the University of Detroit Mercy**](https://youtu.be/Mp3_kLw8cQc)
+[*Robotics Senior Design at the University of Detroit Mercy*](https://youtu.be/Mp3_kLw8cQc)
 ------
 - Designed an assistant robot system to help elderly individuals, combining mobile robots, computer vision, and a robotic manipulator.
 - Modeled the *ReactorX-200* robotic arm and developed an app in *Matlab* to simulate both forward and inverse kinematics of the robotic arm. Finally, applied the algorithm to the real robotic arm for verification and used the program to control the arm.
@@ -83,7 +82,7 @@ You can find my CV here: [Bingyi's Curriculum Vitae](../assets/CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
 
-**RoboCup China Open 2022 ROBOCUP@HOME**
+[*RoboCup China Open 2022 ROBOCUP*](https://youtu.be/Mp3_kLw8cQc)
 ------
 - Designed home service robot with capabilities in guest reception and guidance, object grasping & delivery, object recognition, and voice interaction.
 
